@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/makstyshkul.github.io/pokedexx/static/css/main.e6c13ad2.css",
+    "main.js": "/makstyshkul.github.io/pokedexx/static/js/main.ba451617.js",
+    "static/js/787.8311cd0b.chunk.js": "/makstyshkul.github.io/pokedexx/static/js/787.8311cd0b.chunk.js",
+    "index.html": "/makstyshkul.github.io/pokedexx/index.html",
+    "main.e6c13ad2.css.map": "/makstyshkul.github.io/pokedexx/static/css/main.e6c13ad2.css.map",
+    "main.ba451617.js.map": "/makstyshkul.github.io/pokedexx/static/js/main.ba451617.js.map",
+    "787.8311cd0b.chunk.js.map": "/makstyshkul.github.io/pokedexx/static/js/787.8311cd0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ba451617.js"
+  ]
+}
